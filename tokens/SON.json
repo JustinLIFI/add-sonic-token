@@ -6,5 +6,13 @@
     "chainId": 146,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/PRL/PRL.svg"
+  },
+  {
+    "name": "Fly.trade Token",
+    "address": "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f",
+    "symbol": "FLY",
+    "chainId": 146,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/JustinLIFI/add-sonic-token/main/FLY_token_logo.png"
   }
  ]
